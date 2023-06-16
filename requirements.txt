@@ -1,119 +1,20 @@
 detectron2==0.6
 imutils==0.5.4
 inflect==5.3.0
-install==1.3.5
 iopath==0.1.10
-itsdangerous==2.1.2
-Jinja2==3.1.2
-joblib==1.2.0
-jsonpatch==1.32
-jsonpointer==2.3
-jsonschema @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d832da7jx3/croots/recipe/jsonschema_1663375475386/work
-jupyter_core @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_fc_0us_ta7/croot/jupyter_core_1668084443574/work
-jupyterthemes==0.20.0
-kaleido==0.2.1
-keras==2.10.0
-Keras-Preprocessing==1.1.2
-kiwisolver==1.4.4
-langcodes==3.3.0
-lazy_loader==0.2
-lesscpy==0.15.0
-libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
-libclang==14.0.6
-librosa==0.8.1
-llvmlite==0.39.1
-locust==2.15.1
-Markdown==3.4.3
-MarkupSafe==2.1.2
-marshmallow==3.19.0
-marshmallow-enum==1.5.1
 matplotlib==3.6.0
 nltk==3.8.1
 numba==0.56.4
 numpy==1.23.3
-opencv-python-headless==4.5.4.60
-openfabric-pysdk==0.2.3
 opt-einsum==3.3.0
 packaging==23.0
 pandas==1.5.3
-pathlib @ file:///Users/ktietz/demo/mc3/conda-bld/pathlib_1629713961906/work
-pathspec==0.11.1
-pathy==0.10.1
-pickleDB==0.9.2
-Pillow==9.5.0
-pipenv==2023.2.4
-pkginfo @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_9aeuxsywo9/croot/pkginfo_1666725052115/work
-platformdirs==3.0.0
-plotly==5.11.0
-pluggy @ file:///opt/concourse/worker/volumes/live/42ef51ae-f79c-40e0-6d26-eb6fe9d8ba6e/volume/pluggy_1648042596777/work
-ply==3.11
-pooch==1.7.0
 portalocker==2.7.0
-preshed==3.0.8
-protobuf==3.20.3
-psutil @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c9b604bf-685f-47f6-8304-238e4e70557e1o7mmsot/croots/recipe/psutil_1656431274701/work
-pyarrow==10.0.0
-pyasn1==0.5.0
-pyasn1-modules==0.3.0
-pyclipper==1.3.0.post4
-pycocotools @ git+https://github.com/cocodataset/cocoapi.git@8c9bcc3cf640524c4c20a9c40e89cb6a2f2fa0e9#subdirectory=PythonAPI
-pycosat @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ebsmghz9nu/croot/pycosat_1666805511853/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-python-engineio==3.14.2
-python-socketio==4.6.1
-pytz==2023.3
-pytz-deprecation-shim==0.1.0.post0
-PyWavelets==1.4.1
-pyworld==0.3.2
-PyYAML==5.1
-pyzmq==25.0.2
-QtPy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_4e5ppuhz0f/croots/recipe/qtpy_1662014536017/work
-regex==2023.3.23
-requests @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_516b78ce-034d-4395-b9b5-1d78c2847384qtnol99l/croots/recipe/requests_1657734628886/work
-requests-oauthlib==1.3.1
-resampy==0.4.2
-rich==12.6.0
-roundrobin==0.0.4
-rsa==4.9
-ruamel.yaml @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_7de1zqcaou/croot/ruamel.yaml_1666304553877/work
-ruamel.yaml.clib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c7s0zxy4t2/croot/ruamel.yaml.clib_1666302244557/work
-runstats==2.0.0
 scikit-image==0.20.0
 scikit-learn==1.0.2
 scipy==1.9.1
-seaborn==0.12.2
-semver==2.13.0
-shapely==2.0.1
-sip @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_88z1zrsfrf/croots/recipe/sip_1659012373083/work
-six==1.16.0
-smart-open==6.3.0
-smmap==5.0.0
-sniffio==1.3.0
-sounddevice==0.4.3
-SoundFile==0.10.3.post1
-soupsieve @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_14fb2zs6e3/croot/soupsieve_1666296397588/work
-srsly==2.4.6
-starlette==0.26.1
-streamlit==1.22.0
-tensorboard==2.10.1
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.10.0
-tensorflow-estimator==2.10.0
-tensorflow-io-gcs-filesystem==0.27.0
-termcolor==2.1.0
-thinc==8.1.9
-threadpoolctl==3.1.0
-tifffile==2023.4.12
-tokenizers==0.13.3
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-tomli==2.0.1
-toolz @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a7gkswah88/croot/toolz_1667464082910/work
 torch==2.0.0
 torchaudio==2.0.1
 torchfile==0.1.0
 torchvision==0.15.1
-tornado==6.2
-tqdm==4.62.3
-traitlets @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0dtilxc0bw/croot/traitlets_1671143889152/work
-transformers==4.27.4
+
