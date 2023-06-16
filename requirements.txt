@@ -1,42 +1,4 @@
 detectron2==0.6
-distlib==0.3.6
-Django==4.1.4
-dnspython==1.16.0
-easyocr==1.7.0
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
-entrypoints==0.4
-eventlet==0.31.1
-fastapi==0.95.1
-fastjsonschema @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b5c1gee32t/croots/recipe/python-fastjsonschema_1661368622875/work
-filelock @ file:///opt/conda/conda-bld/filelock_1647002191454/work
-Flask==2.1.3
-flask-apispec==0.11.0
-Flask-BasicAuth==0.2.0
-Flask-Cors==3.0.10
-Flask-RESTful==0.3.9
-Flask-SocketIO==4.3.2
-flatbuffers==22.10.26
-fonttools==4.38.0
-frozenlist==1.3.3
-future @ file:///opt/concourse/worker/volumes/live/f456638c-86a7-4060-7f5f-d499a051219b/volume/future_1607571337593/work
-fvcore @ git+https://github.com/facebookresearch/fvcore.git@fcc14bb0016408ddd818ddb0998f3df0e4e1381c
-gast==0.4.0
-gevent==22.10.2
-geventhttpclient==2.0.9
-gitdb==4.0.9
-GitPython==3.1.29
-glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
-google-auth==2.20.0
-google-auth-oauthlib==0.4.6
-google-pasta==0.2.0
-greenlet==2.0.2
-grpcio==1.56.0rc2
-h11==0.14.0
-huggingface-hub==0.13.4
-hydra-core==1.3.2
-idna @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_00jf0h4zbt/croot/idna_1666125573348/work
-imageio==2.28.1
-importlib-metadata==6.3.0
 imutils==0.5.4
 inflect==5.3.0
 install==1.3.5
@@ -66,24 +28,9 @@ MarkupSafe==2.1.2
 marshmallow==3.19.0
 marshmallow-enum==1.5.1
 matplotlib==3.6.0
-mlxtend==0.22.0
-mpmath==1.3.0
-msgpack==1.0.5
-multidict==6.0.4
-multitasking==0.0.11
-murmurhash==1.0.9
-mypy-extensions==1.0.0
-navigator-updater==0.2.1
-nbformat @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2daun1fill/croot/nbformat_1670352339504/work
-networkx==3.1
-ninja==1.11.1
 nltk==3.8.1
 numba==0.56.4
 numpy==1.23.3
-oauthlib==3.2.2
-omegaconf==2.3.0
-openai==0.27.5
-opencv-python==4.7.0.72
 opencv-python-headless==4.5.4.60
 openfabric-pysdk==0.2.3
 opt-einsum==3.3.0
